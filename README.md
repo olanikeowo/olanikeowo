@@ -1,4 +1,5 @@
-- 👋 Hi, I am Owoyeye Olanike Busola
+# Hi There👋,
+-  I am Owoyeye Olanike Busola
 - 👀 I am a Data Analyst. My comprehensive knowledge details; cleaning,transforming,modelling and analyzing any
 - form of data for business insights.
 - 🌱 I’m currently working on several projects to challenge myself and grow my Data Analytics Skill.
@@ -8,7 +9,7 @@
 - 😄 Pronouns: She
 - ⚡ Fun fact: i make research on Data Analysis in order to profer a solution to any analytical problem.
 
-##  My Skills
+## My Skills
 - Microsoft Excel
 - SQL (Structured Query Language)
 - Tableau
