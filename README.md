@@ -4,9 +4,16 @@
 - 🌱 I’m currently working on several projects to challenge myself and grow my Data Analytics Skill.
 - 💞️ I’m looking to collaborate with companies,organizations or individuals that need my service to solve
 -    their business problems by using my skill sets knowledge
-- 📫 You can reach out to me with: [HERE] (olanikeowoyeye@gmail.com)
+- 📫 You can reach out to me with:(olanikeowoyeye@gmail.com)
 - 😄 Pronouns: She
 - ⚡ Fun fact: i make research on Data Analysis in order to profer a solution to any analytical problem.
+
+##  My Skills
+- Microsoft Excel
+- SQL (Structured Query Language)
+- Tableau
+- PowerBI
+  
 
 <!---
 olanikeowo/olanikeowo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
