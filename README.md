@@ -14,6 +14,7 @@ form of data for business insights.
 - SQL (Structured Query Language)
 - Tableau
 - PowerBI
+- PowerPoint
   
 
 <!---
